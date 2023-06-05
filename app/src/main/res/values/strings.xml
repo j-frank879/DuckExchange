@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">DuckExchange</string>
+    <string name="exchange">Wymień</string>
+    <string name="owned">Kupione</string>
+</resources>

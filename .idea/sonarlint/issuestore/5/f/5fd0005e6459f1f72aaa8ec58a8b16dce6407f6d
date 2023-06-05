@@ -1,0 +1,19 @@
+
+h
+java:S1301<"KReplace this "switch" statement by "if" statements to increase readability.(÷ÊÍ“8à×¼‚Õ0
+—
+java:S1186b"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(§Ûëè
+F
+java:S1659")Declare "lightUpdate" on a separate line.(™öÃ“8Ø¼‚Õ0
+[
+java:S1659">Declare "y" and all following declarations on a separate line.(õ½·˜8Ø¼‚Õ0
+]	java:S125"<This block of commented-out lines of code should be removed.(Ì¸·êüÿÿÿÿ8Ø¼‚Õ0
+_
+java:S1854A"BRemove this useless assignment to local variable "differenceTime".(ûÚôú8ŸØ¼‚Õ0
+_
+java:S1854N"BRemove this useless assignment to local variable "differenceTime".(ïûıÉ8ŸØ¼‚Õ0
+>	java:S131<""Add a default case to this switch.(÷ÊÍ“8ŸØ¼‚Õ0
+P
+java:S1481A"3Remove this unused "differenceTime" local variable.(ûÚôú8ŸØ¼‚Õ0
+P
+java:S1481N"3Remove this unused "differenceTime" local variable.(ïûıÉ8ŸØ¼‚Õ0
